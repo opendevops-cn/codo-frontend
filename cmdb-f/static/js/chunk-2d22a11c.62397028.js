@@ -1,0 +1,2 @@
+(window["webpackJsonp_cmdb"]=window["webpackJsonp_cmdb"]||[]).push([["chunk-2d22a11c"],{dfae:function(e,t,d){"use strict";d.r(t),d.d(t,"deleteLB",(function(){return n})),d.d(t,"getLBList",(function(){return a}));var c=d("be3b");const n=e=>Object(c["default"])({url:"/api/v2/cmdb/lb/",method:"delete",data:e}),a=e=>Object(c["default"])({url:"/api/v2/cmdb/lb/",method:"get",params:e})}}]);
+//# sourceMappingURL=chunk-2d22a11c.62397028.js.map

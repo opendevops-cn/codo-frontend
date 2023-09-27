@@ -1,0 +1,2 @@
+(window["webpackJsonp_cmdb"]=window["webpackJsonp_cmdb"]||[]).push([["chunk-2d0d5fe1"],{"713d":function(d,t,e){"use strict";e.r(t),e.d(t,"getRedisList",(function(){return c})),e.d(t,"optrationRedis",(function(){return i}));var n=e("be3b");const c=d=>Object(n["default"])({url:"/api/v2/cmdb/redis/",method:"get",params:d}),i=(d,t)=>Object(n["default"])({url:"/api/v2/cmdb/redis/",method:t,data:d})}}]);
+//# sourceMappingURL=chunk-2d0d5fe1.5455ebba.js.map

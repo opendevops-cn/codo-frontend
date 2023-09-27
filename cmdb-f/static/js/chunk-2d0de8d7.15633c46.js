@@ -1,0 +1,2 @@
+(window["webpackJsonp_cmdb"]=window["webpackJsonp_cmdb"]||[]).push([["chunk-2d0de8d7"],{"85ae":function(t,d,e){"use strict";e.r(d),e.d(d,"getMySQLList",(function(){return c})),e.d(d,"optrationMysQL",(function(){return a}));var n=e("be3b");const c=t=>Object(n["default"])({url:"/api/v2/cmdb/mysql/",method:"get",params:t}),a=(t,d)=>Object(n["default"])({url:"/api/v2/cmdb/mysql/",method:d,data:t})}}]);
+//# sourceMappingURL=chunk-2d0de8d7.15633c46.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp_cmdb"]=window["webpackJsonp_cmdb"]||[]).push([["chunk-2d0c17f4"],{"45fc":function(c,t,d){"use strict";d.r(t),d.d(t,"getVPC",(function(){return n})),d.d(t,"optVPC",(function(){return u}));var e=d("be3b");const n=c=>Object(e["default"])({url:"/api/v2/cmdb/vpc/",method:"get",params:c}),u=(c,t)=>Object(e["default"])({url:"/api/v2/cmdb/vpc/",method:t,data:c})}}]);
+//# sourceMappingURL=chunk-2d0c17f4.f2ce3454.js.map

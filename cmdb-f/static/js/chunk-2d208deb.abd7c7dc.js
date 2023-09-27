@@ -1,0 +1,2 @@
+(window["webpackJsonp_cmdb"]=window["webpackJsonp_cmdb"]||[]).push([["chunk-2d208deb"],{a743:function(t,c,d){"use strict";d.r(c),d.d(c,"getVswitch",(function(){return n})),d.d(c,"optVswitch",(function(){return a}));var e=d("be3b");const n=t=>Object(e["default"])({url:"/api/v2/cmdb/vswitch/",method:"get",params:t}),a=(t,c)=>Object(e["default"])({url:"/api/v2/cmdb/vswitch/",method:c,data:t})}}]);
+//# sourceMappingURL=chunk-2d208deb.abd7c7dc.js.map
