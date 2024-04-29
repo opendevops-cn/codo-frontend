@@ -1,0 +1,1 @@
+.cloud-style{padding:0 5px 5px 6px}.spin-icon-load{animation:ani-demo-spin 1s linear infinite}@keyframes ani-demo-spin{0%{transform:rotate(0deg)}50%{transform:rotate(180deg)}to{transform:rotate(1turn)}}.demo-spin-col{height:100px;position:relative;border:1px solid #eee}
