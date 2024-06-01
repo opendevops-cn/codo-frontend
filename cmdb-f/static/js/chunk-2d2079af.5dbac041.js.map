@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://cmdb-[name]/./src/components/editor/index.js"],"names":["Editor"],"mappings":"0HAAA,uBACeA","file":"static/js/chunk-2d2079af.5dbac041.js","sourcesContent":["import Editor from './editor-v3.vue'\nexport default Editor\n"],"sourceRoot":""}
