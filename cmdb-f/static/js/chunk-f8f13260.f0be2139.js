@@ -1,0 +1,2 @@
+(window["webpackJsonp_cmdb"]=window["webpackJsonp_cmdb"]||[]).push([["chunk-f8f13260"],{"277b":function(n,c,t){"use strict";t.r(c);var u=function(){var n=this,c=n._self._c;return c("div",[c("center",[n._v("2017-2020 © bk-cmdb")])],1)},d=[],e=(t("5dbf"),t("2877")),f={},b=Object(e["a"])(f,u,d,!1,null,"9f0389a2",null);c["default"]=b.exports},"5dbf":function(n,c,t){"use strict";t("714d")},"714d":function(n,c,t){}}]);
+//# sourceMappingURL=chunk-f8f13260.f0be2139.js.map
