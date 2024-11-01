@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcnmp=self.webpackChunkcnmp||[]).push([[1717],{52639:function(e,n,t){t.r(n);var u=t(38370),c=t(94537),s=t(32030),i=t(11527),r=new u.S({defaultOptions:{queries:{refetchOnWindowFocus:!1}}});n.default=function(){return(0,i.jsx)(c.aH,{client:r,children:(0,i.jsx)(s.Outlet,{})})}}}]);

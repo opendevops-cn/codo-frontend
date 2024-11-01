@@ -1,0 +1,5 @@
+833df27 refactor: 动态菜单功能
+5860ce9 fix: biz列表切换增加是否显示的开关
+d318438 refactor: 调整tenantId为tenantid
+1f1ac51 fix: 新建区服时，最大注册人数与最大在线人数需要有默认值10000
+bb3445f fix: 环境编号必须是整数

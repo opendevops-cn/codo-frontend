@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkservermgmt=self.webpackChunkservermgmt||[]).push([[466],{56466:function(m,n,t){t.r(n),t.d(n,{default:function(){return s}});var r=t(50959),u=t(90801),e=t(11527);function s(){var E=(0,u.useOutletContext)();return(0,e.jsx)(u.Outlet,{context:E})}}}]);
