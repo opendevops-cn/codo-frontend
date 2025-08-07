@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgamearea=self.webpackChunkgamearea||[]).push([[8117],{88117:function(s,n,t){t.r(n),t.d(n,{default:function(){return e}});var O=t(75271),u=t(80364),a=t(52676);function e(){var E=(0,u.useOutletContext)();return(0,a.jsx)(u.Outlet,{context:E})}}}]);

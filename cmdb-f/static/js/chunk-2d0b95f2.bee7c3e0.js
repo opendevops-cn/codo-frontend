@@ -1,0 +1,2 @@
+(window["webpackJsonp_cmdb"]=window["webpackJsonp_cmdb"]||[]).push([["chunk-2d0b95f2"],{3351:function(t,e,c){"use strict";c.r(e),c.d(e,"getCluster",(function(){return d})),c.d(e,"optCluster",(function(){return n}));var u=c("be3b");const d=t=>Object(u["default"])({url:"/api/v2/cmdb/k8s/cluster/",method:"get",params:t}),n=(t,e)=>Object(u["default"])({url:"/api/v2/cmdb/k8s/cluster/",method:e,data:t})}}]);
+//# sourceMappingURL=chunk-2d0b95f2.bee7c3e0.js.map

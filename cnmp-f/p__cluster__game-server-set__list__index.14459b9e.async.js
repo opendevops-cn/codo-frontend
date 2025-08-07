@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcnmp=self.webpackChunkcnmp||[]).push([[1886],{97067:function(e,s,t){t.r(s);var n=t(15268),r=t(83662),a=t(20021),c=t(23025),l=(t(50959),t(11527));s.default=function(){return(0,l.jsx)(l.Fragment,{children:(0,l.jsx)(c.Z,{api:{list:n.Js,delete:r.L,restart:a.J,scale:n.lq},type:"game-server-set"})})}}}]);

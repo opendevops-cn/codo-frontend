@@ -1,0 +1,5 @@
+faa0517 feat (role) 角色关联限制开放到15
+6b20f90 chore: add Node.js version specification for Volta
+1821ebd fix: 修复删除业务逻辑
+6913061 2024年12月13日  优化审计日志范围
+f2d978d 2024年12月13日  优化应用管理

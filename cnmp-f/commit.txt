@@ -1,5 +1,5 @@
-6eec823 Merge branch 'pre' into 'main'
-d178d17 fix: 报错优化
-ba181a3 feat:hpa 更新策略 编辑器优化
-d20c4f8 Merge branch 'pre' into 'main'
-6d15d35 feat: 增加校验 避免报错
+47dc8d2 Merge branch 'pre' into 'main'
+c9d876e fix: 修复字段错误
+774b36a Merge branch 'pre' into 'main'
+bf9bd46 fix: 修复字段错误
+8ff11ec fix: 展示修改

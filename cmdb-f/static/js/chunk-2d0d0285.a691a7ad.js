@@ -1,0 +1,2 @@
+(window["webpackJsonp_cmdb"]=window["webpackJsonp_cmdb"]||[]).push([["chunk-2d0d0285"],{"677e":function(e,t,d){"use strict";d.r(t),d.d(t,"deleteMongoDB",(function(){return o})),d.d(t,"getMongoDBList",(function(){return c}));var n=d("be3b");const o=e=>Object(n["default"])({url:"/api/v2/cmdb/mongodb/",method:"delete",data:e}),c=e=>Object(n["default"])({url:"/api/v2/cmdb/mongodb/",method:"get",params:e})}}]);
+//# sourceMappingURL=chunk-2d0d0285.a691a7ad.js.map

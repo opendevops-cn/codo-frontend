@@ -1,0 +1,2 @@
+(window["webpackJsonp_cmdb"]=window["webpackJsonp_cmdb"]||[]).push([["chunk-2d21afa4"],{be8c:function(t,c,d){"use strict";d.r(c),d.d(c,"getSwitch",(function(){return i})),d.d(c,"importSwitch",(function(){return a})),d.d(c,"optSwitch",(function(){return n}));var e=d("be3b");const i=t=>Object(e["default"])({url:"/api/v2/cmdb/switch/",method:"get",params:t}),a=t=>Object(e["default"])({url:"/api/v2/cmdb/switch/import/",method:"post",data:t}),n=(t,c)=>Object(e["default"])({url:"/api/v2/cmdb/switch/",method:c,data:t})}}]);
+//# sourceMappingURL=chunk-2d21afa4.6052d73c.js.map

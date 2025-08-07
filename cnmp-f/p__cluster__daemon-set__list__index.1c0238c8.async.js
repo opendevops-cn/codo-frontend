@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcnmp=self.webpackChunkcnmp||[]).push([[4185],{35758:function(e,t,n){n.r(t);var s=n(15268),r=n(23025),a=(n(50959),n(11527));t.default=function(){return(0,a.jsx)(a.Fragment,{children:(0,a.jsx)(r.Z,{api:{list:s.dO,delete:s.JY,restart:s.Bw},type:"daemon-set"})})}}}]);

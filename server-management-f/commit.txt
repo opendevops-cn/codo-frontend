@@ -1,5 +1,5 @@
-833df27 refactor: 动态菜单功能
-5860ce9 fix: biz列表切换增加是否显示的开关
-d318438 refactor: 调整tenantId为tenantid
-1f1ac51 fix: 新建区服时，最大注册人数与最大在线人数需要有默认值10000
-bb3445f fix: 环境编号必须是整数
+98ec5b9 feat: Remove unexpected token error handling and related notification logic
+3e88630 feat: Enable version logging for web update notification plugin
+443a4a5 feat: Implement user login functionality with Feishu integration and add user info management
+94500d2 feat: Add web update notification plugin and update proxy target for development
+6a5d668 feat: Disable mask closing for drawer forms in environment, region, and server management

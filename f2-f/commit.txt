@@ -1,0 +1,5 @@
+62829ac fix: 在ScriptTaskForm中添加task_condition字段，并在WorkFlowEdit中处理flow_data以确保bpm_id与key一致
+d3fee50 fix: 将commonPostListForTable2函数中的count字段改为total
+a13246c refactor: 确保安全创建并避免重复生成，同时更新index.js以引入CustomPreviewSupport
+9c71694 feat: 优化CustomRenderer中的SVG箭头定义，确保安全创建和避免重复生成
+eebb90d feat: 更新编辑模态框中的构建机组名称输入字符限制至100字符

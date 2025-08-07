@@ -1,0 +1,5 @@
+43cff0b Merge branch 'pre' into 'main'
+b0b088f fix: 关闭弹框刷新列表 避免不是最新的
+ea544c9 fix: 刷新节点
+2cdacf4 fix: 统一50字符
+7f9c54c feat: 应用节点 仅支持相同的配置类型 并且自动收缩所有子节点都禁用的父节点
